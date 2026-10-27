@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello. ⓘ
 
 Starting to learn computer engineering.
 
